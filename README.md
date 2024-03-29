@@ -1,1 +1,1 @@
-# ST-87-Solution
+# Project 87
